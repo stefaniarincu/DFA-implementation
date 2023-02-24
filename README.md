@@ -22,5 +22,13 @@ Pentru acest input, outputul corespunzator este: <br/>
 &emsp;&emsp;&emsp;DA<br/>
 &emsp;&emsp;&emsp;Traseu: 0 1 2 0 <br/>
 &emsp;&emsp;&emsp;NU<br/><br/>
-
+Structura inputului este: <br />
+&emsp;&emsp;&emsp;nr_noduri nr_muchii<br/>
+&emsp;&emsp;Pentru fiecare muchie din cele numarate:<br/>
+&emsp;&emsp;&emsp;nod_start nod_final valoare_muchie(cod)<br/>
+&emsp;&emsp;&emsp;nod_initial<br/>
+&emsp;&emsp;&emsp;nod_final_0 nod_final_1 .... (unul sau mai multe)<br/>
+&emsp;&emsp;&emsp;nr_stringuri_verificat<br/>
+&emsp;&emsp;Pentru fiecare string din cele numarate:<br/>
+&emsp;&emsp;&emsp;string<br/>
   
